@@ -1,0 +1,10 @@
+Liam Carter,1000,3.10
+Olivia Brooks,1001,3.95
+Noah Bennett,1002,2.75
+Emma Foster,1003,3.50
+Mason Reed,1004,2.20
+Sophia Ward,1005,3.70
+James Hayes,1006,3.00
+Isabella Cox,1007,3.85
+Benjamin Price,1008,2.60
+Mia Kelly,1009,4.00
