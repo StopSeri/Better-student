@@ -22,6 +22,7 @@ A command-line student management system written in C, built to practice core pr
 From the project root:
 
 Bash
+
 gcc src/main.c src/student.c lib/src/input.c -Iinclude -Ilib/include -o studentdb.exe
 
 ---
@@ -29,5 +30,7 @@ gcc src/main.c src/student.c lib/src/input.c -Iinclude -Ilib/include -o studentd
 Example file to load
 
 Alice Johnson,1000,3.80
+
 Bob Smith,1001,2.95
+
 Charlie Brown,1002,3.25
